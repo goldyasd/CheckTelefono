@@ -17,8 +17,8 @@ Il codice esegue prima un for per esaminare ogni stringa del vettore, ad ogni st
 variabile "number". Se number ha i primi 3 caratteri che sono esattamente "+39" ed è lunga 13 oppure se inizia con "0039" ed è lunga 14
 o se è lunga 10 ed ha il numero iniziale uguale a 3 allora considera il numero corretto e lo riporta indietro, altrimenti passa al prossimo.
 c'è un try catch che impedisce al programma di generare errori nel caso venissero passati vettori con valori troppo bassi.
-
-#### variabili e soluzioni basilari:
+<br><br>
+#### Variabili e soluzioni basilari:
 ~~~C#
 
         for(int i = 0; i < input.Length; i++){
