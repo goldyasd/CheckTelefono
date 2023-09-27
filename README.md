@@ -1,5 +1,5 @@
 # CheckTelefono
-Dato un vettore contenente stringhe di numeri, un algoritmo le passa in rassegna e comunica se i numeri possono essere numeri di telefono
+Dato un vettore contenente stringhe di numeri, un algoritmo le passa in rassegna e comunica se i numeri possono essere numeri di telefono<br><br>
 
 
 ## quando un numero è valido?
