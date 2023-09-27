@@ -1,11 +1,16 @@
 # CheckTelefono
 Dato un vettore contenente stringhe di numeri, un algoritmo le passa in rassegna e comunica se i numeri possono essere numeri di telefono
 
+
 ## quando un numero è valido?
-É stato deciso che un numero di telefono viene definito valido secondo queste specifiche: <br>
-inizia con +39 (esattamente lungo 13) <br><br>
-inizia con 0039 (esattamente lungo 14) <br><br>
-inizia con un 3 (esattamente lungo 10) <br><br>
+É stato deciso che un numero di telefono viene definito valido secondo queste specifiche: 
+
+inizia con +39 (esattamente lungo 13) 
+
+inizia con 0039 (esattamente lungo 14) 
+
+inizia con un 3 (esattamente lungo 10) 
+
 
 ### Come funziona il codice
 Il codice esegue prima un for per esaminare ogni stringa del vettore, ad ogni stringa vengono rimossi gli spazi e vengono passati nella
